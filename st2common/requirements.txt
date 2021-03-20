@@ -14,7 +14,7 @@ git+https://github.com/StackStorm/orquesta.git@e6ebbbeb2c661486067e659dc7552f0a9
 gitpython==2.1.11
 greenlet==0.4.15
 ipaddr
-jinja2==2.10.1
+jinja2==2.11.3
 jsonpath-rw==1.4.0
 jsonschema==2.6.0
 kombu==4.6.4
