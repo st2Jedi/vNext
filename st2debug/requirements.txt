@@ -7,6 +7,6 @@
 # update the component requirements.txt
 eventlet==0.25.0
 python-gnupg==0.4.5
-pyyaml==5.1.2
+pyyaml==5.4
 requests[security]<2.22.0,>=2.21.0
 six==1.12.0
